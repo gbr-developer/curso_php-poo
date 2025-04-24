@@ -6,7 +6,7 @@ Arquivos de aprendizagem do curso de PHP Orientado a Objetos realizado no [Curso
 * [Introdução](#Introdução)
   * [Estrutura](#Estrutura)   
   * [Conteúdo Abordado](#Conteúdo-Abordado) 
-* [Como Testar?](#Como-Testar) 
+* [Como Testar](#Como-Testar) 
 * [Status do Curso](#Status-do-Curso)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Autor](#Autor)
